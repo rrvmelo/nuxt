@@ -1,18 +1,11 @@
 <template>
   <div>
-  Produto A
+    Produto A
   </div>
 </template>
 
 <script>
-  export default {
-    name: '',
-    data() {
-      return {
-
-      };
-    },
-    methods: {},
-
-  };
+export default {
+  name: 'produto-a'
+}
 </script>

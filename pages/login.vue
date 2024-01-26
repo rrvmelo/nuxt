@@ -1,11 +1,12 @@
 <template>
   <div>
-    Produto B
+    Login
   </div>
 </template>
 
 <script>
 export default {
-  name: 'produto-b'
+  name: 'login',
+  layout: 'auth',
 }
 </script>

@@ -1,18 +1,11 @@
 <template>
   <div>
- Slug: {{ $route.params.slug }}
+    Slug: {{ $route.params.slug }}
   </div>
 </template>
 
 <script>
-  export default {
-    name: '',
-    data() {
-      return {
-
-      };
-    },
-    methods: {},
-
-  };
+export default {
+  name: ''
+}
 </script>
